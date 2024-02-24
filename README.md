@@ -17,6 +17,7 @@
 - Code
 - Python
 - Jupyter Notebook
+- [Tensorflow Playground on Cloud](https://www.tensorflow.org/resources/tools)
 
 ## Python
 
