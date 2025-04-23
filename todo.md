@@ -1,8 +1,9 @@
-- ai
+- **ai**
   - at its core, is about finding a model—or algorithm—that can most accurately predict outcomes based on a given input, like a dataset.
-- model
+- **model**
   - Is a Model Just an Algorithm? --> The model is the specific instance of that algorithm, with a defined shape (e.g., layers, parameters, config, setup), but it’s still empty until trained."
   - a trained model is ready to use with new data set to predict
-- data set
-- overfit
-- training
+- **data set**
+- **overfit**
+- **training**
+  - teaching a model by feeding it data and adjusting its internal parameters (e.g., weights in a neural network) to recognize patterns.
